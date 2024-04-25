@@ -17,11 +17,11 @@ to represent 4: 1 0 0
 
 up to representing 7: 1 1 1
 
-# this uses 'base-2' to count:
+### this uses 'base-2' to count:
 2^2  2^1  2^0
 4    2    1
 
-# Computers generally use eight bits (also known as a byte) to represent a number. For example, 00000101 is the number 5 in binary. 11111111 represents the number 255.
+### Computers generally use eight bits (also known as a byte) to represent a number. For example, 00000101 is the number 5 in binary. 11111111 represents the number 255.
 
 
 # ASCII
